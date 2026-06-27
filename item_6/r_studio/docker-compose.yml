@@ -1,0 +1,22 @@
+services:
+    rstudio:
+        image: rocker/rstudio:latest
+
+        container_name: rstudio
+
+        ports:
+        - "8787:8787"
+
+        environment:
+
+        - PASSWORD=lab
+        - USERID=1000
+        - GROUPID=1000
+
+        - TZ=Europe/Moscow
+
+        volumes:
+        - /home/q10sn1k/r_studio:/home/rstudio/workspace
+        - /home/q10sn1k/.rstudio_config:/home/rstudio/.config/rstudio
+
+        restart: unless-stopped
