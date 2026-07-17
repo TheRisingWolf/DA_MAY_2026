@@ -1,0 +1,1442 @@
+[
+  {
+    "customer_id": "C0001",
+    "segment": "Корпоративный",
+    "region": "Сибирь",
+    "city": "Омск",
+    "registration_date": "2023-04-26",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0002",
+    "segment": "Премиум",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2024-12-04",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0003",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Ярославль",
+    "registration_date": "2023-05-09",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0004",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2024-06-19",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0005",
+    "segment": "Премиум",
+    "region": "Юг",
+    "city": "Сочи",
+    "registration_date": "2022-03-11",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0006",
+    "segment": "Корпоративный",
+    "region": "Сибирь",
+    "city": "Красноярск",
+    "registration_date": "2023-01-24",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0007",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Красноярск",
+    "registration_date": "2022-08-02",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0008",
+    "segment": null,
+    "region": "Центр",
+    "city": "Ярославль",
+    "registration_date": "2024-01-18",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0009",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2023-02-10",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0010",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Ярославль",
+    "registration_date": "2023-06-05",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0011",
+    "segment": "Премиум",
+    "region": "Северо-Запад",
+    "city": "Санкт-Петербург",
+    "registration_date": "2024-06-30",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0012",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Омск",
+    "registration_date": "2024-05-31",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0013",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2022-06-03",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0014",
+    "segment": "Премиум",
+    "region": "Сибирь",
+    "city": "Красноярск",
+    "registration_date": "2023-12-30",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0015",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Краснодар",
+    "registration_date": "2023-09-15",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0016",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2023-05-31",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0017",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2023-08-30",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0018",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2023-04-24",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0019",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Новосибирск",
+    "registration_date": "2022-09-14",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0020",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Псков",
+    "registration_date": "2023-12-26",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0021",
+    "segment": "Премиум",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2023-03-21",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0022",
+    "segment": "Премиум",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2022-04-09",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0023",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Ярославль",
+    "registration_date": "2023-07-03",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0024",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Ростов-на-Дону",
+    "registration_date": "2023-02-22",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0025",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2022-04-06",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0026",
+    "segment": "Массовый",
+    "region": "Дальний Восток",
+    "city": "Хабаровск",
+    "registration_date": "2024-02-06",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0027",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Новосибирск",
+    "registration_date": "2024-02-24",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0028",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2024-09-15",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0029",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2023-09-27",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0030",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Омск",
+    "registration_date": "2024-02-27",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0031",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Ростов-на-Дону",
+    "registration_date": "2023-12-13",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0032",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2023-06-25",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0033",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2023-10-06",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0034",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Краснодар",
+    "registration_date": "2023-01-15",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0035",
+    "segment": "Премиум",
+    "region": "Дальний Восток",
+    "city": "Хабаровск",
+    "registration_date": "2023-06-13",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0036",
+    "segment": "Корпоративный",
+    "region": "Юг",
+    "city": "Сочи",
+    "registration_date": "2023-06-22",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0037",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Сочи",
+    "registration_date": "2022-10-20",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0038",
+    "segment": "Премиум",
+    "region": "Северо-Запад",
+    "city": "Санкт-Петербург",
+    "registration_date": "2022-01-24",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0039",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2023-08-30",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0040",
+    "segment": "Премиум",
+    "region": "Северо-Запад",
+    "city": "Санкт-Петербург",
+    "registration_date": "2023-12-24",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0041",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2024-09-30",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0042",
+    "segment": "Премиум",
+    "region": "Юг",
+    "city": "Краснодар",
+    "registration_date": "2023-02-11",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0043",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Санкт-Петербург",
+    "registration_date": "2024-11-09",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0044",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Ярославль",
+    "registration_date": "2024-10-21",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0045",
+    "segment": "Корпоративный",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2024-12-22",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0046",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Новосибирск",
+    "registration_date": "2024-09-05",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0047",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Омск",
+    "registration_date": "2023-12-26",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0048",
+    "segment": "Корпоративный",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2022-10-15",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0049",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2024-06-29",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0050",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Пермь",
+    "registration_date": "2024-08-15",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0051",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Новосибирск",
+    "registration_date": "2024-11-30",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0052",
+    "segment": null,
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2022-09-09",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0053",
+    "segment": "Премиум",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2023-07-09",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0054",
+    "segment": "Премиум",
+    "region": "Центр",
+    "city": "Ярославль",
+    "registration_date": "2024-05-30",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0055",
+    "segment": "Корпоративный",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2022-05-16",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0056",
+    "segment": "Премиум",
+    "region": "Северо-Запад",
+    "city": "Санкт-Петербург",
+    "registration_date": "2023-06-19",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0057",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2024-10-09",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0058",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Пермь",
+    "registration_date": "2022-04-26",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0059",
+    "segment": "Корпоративный",
+    "region": "Дальний Восток",
+    "city": "Владивосток",
+    "registration_date": "2023-10-15",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0060",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Краснодар",
+    "registration_date": "2024-05-09",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0061",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Новосибирск",
+    "registration_date": "2024-05-22",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0062",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Пермь",
+    "registration_date": "2024-08-08",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0063",
+    "segment": "Премиум",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2023-04-12",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0064",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Краснодар",
+    "registration_date": "2022-09-29",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0065",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Красноярск",
+    "registration_date": "2022-04-26",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0066",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2024-06-22",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0067",
+    "segment": "Массовый",
+    "region": "Дальний Восток",
+    "city": "Хабаровск",
+    "registration_date": "2022-07-01",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0068",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2022-01-24",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0069",
+    "segment": "Премиум",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2023-10-10",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0070",
+    "segment": "Корпоративный",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2023-07-07",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0071",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2022-07-18",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0072",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Сочи",
+    "registration_date": "2023-04-01",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0073",
+    "segment": "Премиум",
+    "region": "Юг",
+    "city": "Сочи",
+    "registration_date": "2022-04-22",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0074",
+    "segment": "Премиум",
+    "region": "Дальний Восток",
+    "city": "Якутск",
+    "registration_date": "2022-04-19",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0075",
+    "segment": "Премиум",
+    "region": "Дальний Восток",
+    "city": "Владивосток",
+    "registration_date": "2024-05-28",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0076",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Красноярск",
+    "registration_date": "2022-05-28",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0077",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Красноярск",
+    "registration_date": "2023-05-22",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0078",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2022-06-03",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0079",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2023-02-07",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0080",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Санкт-Петербург",
+    "registration_date": "2024-01-21",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0081",
+    "segment": "Массовый",
+    "region": "Дальний Восток",
+    "city": "Якутск",
+    "registration_date": "2023-06-11",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0082",
+    "segment": "Премиум",
+    "region": "Сибирь",
+    "city": "Омск",
+    "registration_date": "2023-12-16",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0083",
+    "segment": "Премиум",
+    "region": "Урал",
+    "city": "Екатеринбург",
+    "registration_date": "2022-11-12",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0084",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2024-07-31",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0085",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2024-03-05",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0086",
+    "segment": "Премиум",
+    "region": "Центр",
+    "city": "Ярославль",
+    "registration_date": "2024-11-15",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0087",
+    "segment": "Корпоративный",
+    "region": "Сибирь",
+    "city": "Красноярск",
+    "registration_date": "2024-05-20",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0088",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Екатеринбург",
+    "registration_date": "2022-04-15",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0089",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Ростов-на-Дону",
+    "registration_date": "2023-09-19",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0090",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Красноярск",
+    "registration_date": "2024-05-25",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0091",
+    "segment": "Массовый",
+    "region": "Дальний Восток",
+    "city": "Якутск",
+    "registration_date": "2022-05-12",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0092",
+    "segment": "Премиум",
+    "region": "Урал",
+    "city": "Пермь",
+    "registration_date": "2023-04-04",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0093",
+    "segment": "Премиум",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2024-09-10",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0094",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Псков",
+    "registration_date": "2022-12-11",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0095",
+    "segment": "Массовый",
+    "region": "Дальний Восток",
+    "city": "Хабаровск",
+    "registration_date": "2023-04-25",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0096",
+    "segment": "Премиум",
+    "region": "Юг",
+    "city": "Сочи",
+    "registration_date": "2024-10-22",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0097",
+    "segment": "Премиум",
+    "region": "Северо-Запад",
+    "city": "Псков",
+    "registration_date": "2024-12-16",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0098",
+    "segment": "Премиум",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2024-07-20",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0099",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Ростов-на-Дону",
+    "registration_date": "2024-01-22",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0100",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Омск",
+    "registration_date": "2022-11-20",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0101",
+    "segment": "Премиум",
+    "region": "Северо-Запад",
+    "city": "Псков",
+    "registration_date": "2024-10-02",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0102",
+    "segment": "Массовый",
+    "region": "Дальний Восток",
+    "city": "Владивосток",
+    "registration_date": "2024-08-20",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0103",
+    "segment": "Премиум",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2024-12-30",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0104",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Ярославль",
+    "registration_date": "2024-09-09",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0105",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Ярославль",
+    "registration_date": "2024-04-30",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0106",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Пермь",
+    "registration_date": "2022-02-09",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0107",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Пермь",
+    "registration_date": "2024-05-27",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0108",
+    "segment": "Корпоративный",
+    "region": "Центр",
+    "city": "Ярославль",
+    "registration_date": "2024-05-27",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0109",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Пермь",
+    "registration_date": "2024-07-06",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0110",
+    "segment": "Премиум",
+    "region": "Центр",
+    "city": "Ярославль",
+    "registration_date": "2023-07-07",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0111",
+    "segment": "Премиум",
+    "region": "Сибирь",
+    "city": "Омск",
+    "registration_date": "2022-06-19",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0112",
+    "segment": "Корпоративный",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2024-02-17",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0113",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2023-11-06",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0114",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2022-07-09",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0115",
+    "segment": "Премиум",
+    "region": "Дальний Восток",
+    "city": "Хабаровск",
+    "registration_date": "2023-05-18",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0116",
+    "segment": "Корпоративный",
+    "region": "Юг",
+    "city": "Краснодар",
+    "registration_date": "2022-06-08",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0117",
+    "segment": "Премиум",
+    "region": "Юг",
+    "city": "Краснодар",
+    "registration_date": "2024-02-06",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0118",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2023-07-11",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0119",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Ярославль",
+    "registration_date": "2022-05-27",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0120",
+    "segment": null,
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2023-11-01",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0121",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2022-08-27",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0122",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2023-04-04",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0123",
+    "segment": "Премиум",
+    "region": "Юг",
+    "city": "Краснодар",
+    "registration_date": "2023-09-12",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0124",
+    "segment": "Премиум",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2022-12-13",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0125",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Псков",
+    "registration_date": "2023-11-17",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0126",
+    "segment": "Корпоративный",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2024-08-28",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0127",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Ростов-на-Дону",
+    "registration_date": "2024-05-25",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0128",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Ростов-на-Дону",
+    "registration_date": "2022-05-07",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0129",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2022-11-04",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0130",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Санкт-Петербург",
+    "registration_date": "2024-03-24",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0131",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Омск",
+    "registration_date": "2023-02-12",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0132",
+    "segment": "Корпоративный",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2023-02-04",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0133",
+    "segment": "Премиум",
+    "region": "Сибирь",
+    "city": "Омск",
+    "registration_date": "2022-12-07",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0134",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2023-12-03",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0135",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Краснодар",
+    "registration_date": "2022-06-29",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0136",
+    "segment": "Премиум",
+    "region": "Дальний Восток",
+    "city": "Якутск",
+    "registration_date": "2023-09-01",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0137",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2023-05-06",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0138",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Новосибирск",
+    "registration_date": "2023-04-20",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0139",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2024-09-20",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0140",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Санкт-Петербург",
+    "registration_date": "2023-06-21",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0141",
+    "segment": "Премиум",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2022-09-24",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0142",
+    "segment": "Премиум",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2024-01-04",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0143",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2023-08-14",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0144",
+    "segment": "Корпоративный",
+    "region": "Юг",
+    "city": "Краснодар",
+    "registration_date": "2024-04-21",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0145",
+    "segment": "Корпоративный",
+    "region": "Дальний Восток",
+    "city": "Владивосток",
+    "registration_date": "2023-10-05",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0146",
+    "segment": "Массовый",
+    "region": "Юг",
+    "city": "Сочи",
+    "registration_date": "2023-08-05",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0147",
+    "segment": "Массовый",
+    "region": "Дальний Восток",
+    "city": "Хабаровск",
+    "registration_date": "2023-11-22",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0148",
+    "segment": "Корпоративный",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2022-01-28",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0149",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Санкт-Петербург",
+    "registration_date": "2023-10-18",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0150",
+    "segment": "Корпоративный",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2023-11-25",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0151",
+    "segment": "Корпоративный",
+    "region": "Юг",
+    "city": "Сочи",
+    "registration_date": "2024-04-13",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0152",
+    "segment": "Корпоративный",
+    "region": "Дальний Восток",
+    "city": "Хабаровск",
+    "registration_date": "2024-05-06",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0153",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Пермь",
+    "registration_date": "2023-04-27",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0154",
+    "segment": "Массовый",
+    "region": "Дальний Восток",
+    "city": "Владивосток",
+    "registration_date": "2024-12-14",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0155",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2023-01-15",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0156",
+    "segment": "Корпоративный",
+    "region": "Сибирь",
+    "city": "Красноярск",
+    "registration_date": "2023-06-21",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0157",
+    "segment": "Премиум",
+    "region": "Дальний Восток",
+    "city": "Владивосток",
+    "registration_date": "2023-03-27",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0158",
+    "segment": "Корпоративный",
+    "region": "Юг",
+    "city": "Краснодар",
+    "registration_date": "2024-05-28",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0159",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2023-02-13",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0160",
+    "segment": "Премиум",
+    "region": "Урал",
+    "city": "Пермь",
+    "registration_date": "2024-02-21",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0161",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2024-05-26",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0162",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Екатеринбург",
+    "registration_date": "2024-07-28",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0163",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Челябинск",
+    "registration_date": "2022-02-02",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0164",
+    "segment": "Корпоративный",
+    "region": "Урал",
+    "city": "Екатеринбург",
+    "registration_date": "2022-09-18",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0165",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Красноярск",
+    "registration_date": "2022-11-24",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0166",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2024-08-28",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0167",
+    "segment": "Премиум",
+    "region": "Северо-Запад",
+    "city": "Псков",
+    "registration_date": "2024-02-25",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0168",
+    "segment": "Массовый",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2023-03-23",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0169",
+    "segment": "Массовый",
+    "region": "Дальний Восток",
+    "city": "Якутск",
+    "registration_date": "2024-02-07",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0170",
+    "segment": "Массовый",
+    "region": "Дальний Восток",
+    "city": "Владивосток",
+    "registration_date": "2023-06-29",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0171",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2022-08-10",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0172",
+    "segment": "Массовый",
+    "region": "Урал",
+    "city": "Пермь",
+    "registration_date": "2023-01-11",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0173",
+    "segment": "Массовый",
+    "region": "Сибирь",
+    "city": "Омск",
+    "registration_date": "2023-08-16",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0174",
+    "segment": "Корпоративный",
+    "region": "Центр",
+    "city": "Тула",
+    "registration_date": "2022-12-23",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0175",
+    "segment": "Премиум",
+    "region": "Урал",
+    "city": "Екатеринбург",
+    "registration_date": "2023-10-09",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0176",
+    "segment": "Массовый",
+    "region": "Центр",
+    "city": "Москва",
+    "registration_date": "2022-12-20",
+    "loyalty_level": "Gold"
+  },
+  {
+    "customer_id": "C0177",
+    "segment": "Премиум",
+    "region": "Северо-Запад",
+    "city": "Санкт-Петербург",
+    "registration_date": "2023-09-07",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0178",
+    "segment": "Корпоративный",
+    "region": "Северо-Запад",
+    "city": "Архангельск",
+    "registration_date": "2023-06-06",
+    "loyalty_level": "Silver"
+  },
+  {
+    "customer_id": "C0179",
+    "segment": "Премиум",
+    "region": "Сибирь",
+    "city": "Красноярск",
+    "registration_date": "2024-09-15",
+    "loyalty_level": "Bronze"
+  },
+  {
+    "customer_id": "C0180",
+    "segment": "Премиум",
+    "region": "Юг",
+    "city": "Ростов-на-Дону",
+    "registration_date": "2022-04-22",
+    "loyalty_level": "Gold"
+  }
+]

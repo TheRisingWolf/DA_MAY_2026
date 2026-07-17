@@ -1,0 +1,27 @@
+[
+  {
+    "channel_code":"CH01",
+    "channel_name":"Телефон",
+    "is_digital":false
+  },
+  {
+    "channel_code":"CH02",
+    "channel_name":"Электронная почта",
+    "is_digital":true
+  },
+  {
+    "channel_code":"CH03",
+    "channel_name":"Чат",
+    "is_digital":true
+  },
+  {
+    "channel_code":"CH04",
+    "channel_name":"Мобильное приложение",
+    "is_digital":true
+  },
+  {
+    "channel_code":"CH05",
+    "channel_name":"Офис",
+    "is_digital":false
+  }
+]
