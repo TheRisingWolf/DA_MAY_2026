@@ -1,0 +1,8 @@
+step,value,comment
+raw_sales_rows,190,Строк в исходной таблице продаж
+duplicate_orders_excluded,5,Повторные order_id исключены из витрины
+invalid_dates_excluded,5,Строки с нераспознанной датой исключены
+invalid_quantity_excluded,4,Строки с некорректным количеством исключены
+invalid_price_excluded,3,Строки с некорректной ценой исключены
+invalid_discount_excluded,5,Строки с некорректной скидкой исключены
+sales_ready_for_report,150,Строк готовой витрины

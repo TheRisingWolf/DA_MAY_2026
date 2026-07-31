@@ -1,0 +1,37 @@
+{
+  "sales_rows": 190,
+  "sales_columns": 10,
+  "products_rows": 18,
+  "products_columns": 5,
+  "clients_rows": 41,
+  "clients_columns": 4,
+  "regions_rows": 6,
+  "regions_columns": 3,
+  "sales_full_duplicated_rows": 3,
+  "sales_duplicate_order_id_rows_keep_false": 10,
+  "sales_invalid_order_date_rows": 5,
+  "sales_non_positive_quantity_rows": 4,
+  "sales_non_positive_unit_price_rows": 3,
+  "sales_discount_out_of_range_rows": 5,
+  "sales_missing_region_id_rows": 5,
+  "sales_unknown_product_id_unique": 2,
+  "sales_unknown_product_id_rows": 6,
+  "sales_unknown_client_id_unique": 2,
+  "sales_unknown_client_id_rows": 3,
+  "sales_unknown_region_id_unique": 2,
+  "sales_unknown_region_id_rows": 4,
+  "products_duplicate_product_id_rows_keep_false": 4,
+  "clients_duplicate_client_id_rows_keep_false": 2,
+  "unknown_product_ids": [
+    "P018",
+    "P999"
+  ],
+  "unknown_client_ids": [
+    "C888",
+    "C999"
+  ],
+  "unknown_region_ids": [
+    "R98",
+    "R99"
+  ]
+}

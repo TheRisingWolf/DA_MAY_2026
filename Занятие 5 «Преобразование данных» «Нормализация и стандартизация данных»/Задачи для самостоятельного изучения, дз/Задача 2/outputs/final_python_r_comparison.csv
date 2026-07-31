@@ -1,0 +1,10 @@
+check_name,python_value,r_value,difference,tolerance,status,comment
+datamart_rows,150,150,0,0.0,pass,Количество строк в витрине
+datamart_columns,37,37,0,0.0,pass,Количество столбцов в витрине
+report_rows,18,18,0,0.0,pass,Количество строк в региональной сводке
+total_revenue,9416054.34,9416054.34,0.0,0.01,pass,Итоговая выручка
+total_margin,2700574.34,2700574.34,0.0,0.01,pass,Итоговая маржа
+unique_orders,150,150,0,0.0,pass,Уникальные заказы
+unique_channels,"marketplace, online, retail","marketplace, online, retail",,0.0,pass,Каналы после нормализации
+unique_categories,"Accessories, Appliances, Electronics, Furniture, Office Supplies","Accessories, Appliances, Electronics, Furniture, Office Supplies",,0.0,pass,Категории после нормализации
+ready_status_rows,150,150,0,0.0,pass,Строки со статусом ready_for_report

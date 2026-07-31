@@ -1,0 +1,5 @@
+dataset,rows,columns,missing_cells,duplicated_rows,status,issues_count
+sales,190,10,39,3,needs_fix,9
+products,18,5,0,0,warning,2
+clients,41,4,0,0,minor_issues,2
+regions,6,3,0,0,warning,1

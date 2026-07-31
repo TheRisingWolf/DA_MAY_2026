@@ -1,0 +1,28 @@
+{
+  "raw_sales_rows": 190,
+  "sales_ready_for_report_rows": 150,
+  "sales_excluded_rows": 40,
+  "products_rows_raw": 18,
+  "products_unique_after_dedup": 16,
+  "clients_rows_raw": 41,
+  "clients_unique_after_dedup": 40,
+  "regions_unique_after_dedup": 6,
+  "report_by_region_channel_rows": 18,
+  "total_revenue": 9416054.34,
+  "total_margin": 2700574.34,
+  "channels": [
+    "marketplace",
+    "online",
+    "retail"
+  ],
+  "categories": [
+    "Accessories",
+    "Appliances",
+    "Electronics",
+    "Furniture",
+    "Office Supplies"
+  ],
+  "min_revenue_minmax": 0.0,
+  "max_revenue_minmax": 1.0,
+  "mean_revenue_zscore_rounded": 0.0
+}

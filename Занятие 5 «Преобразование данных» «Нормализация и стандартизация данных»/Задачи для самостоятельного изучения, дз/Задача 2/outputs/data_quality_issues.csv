@@ -1,0 +1,12 @@
+dataset,field,issue_type,rows_count,severity,suggested_action,details
+sales,order_id,duplicated_business_key,10,critical,deduplicate_or_confirm,Повторяющиеся order_id могут завысить выручку
+sales,order_date,invalid_date,5,high,convert_or_request_source_check,Строки с NaT нельзя использовать в динамике без проверки
+sales,quantity,non_positive_quantity,4,critical,exclude_or_confirm,Количество должно быть больше 0
+sales,unit_price,non_positive_price,3,critical,exclude_or_confirm,Цена должна быть больше 0
+sales,discount,discount_out_of_range,5,critical,fix_or_confirm,Скидка должна быть в диапазоне от 0 до 1
+sales,region_id,missing_region_id,5,high,restore_or_mark_unknown,Без региона нельзя корректно сравнивать регионы
+sales + products,product_id,missing_reference,6,high,check_products_dictionary,"P018, P999"
+sales + clients,client_id,missing_reference,3,medium,check_clients_dictionary,"C888, C999"
+sales + regions,region_id,missing_reference,4,high,check_regions_dictionary,"R98, R99"
+products,product_id,duplicated_reference_key,4,high,deduplicate_dictionary,Дубли ключа в справочнике могут размножить строки после merge
+clients,client_id,duplicated_reference_key,2,medium,deduplicate_dictionary,Дубли ключа в справочнике могут размножить строки после merge
