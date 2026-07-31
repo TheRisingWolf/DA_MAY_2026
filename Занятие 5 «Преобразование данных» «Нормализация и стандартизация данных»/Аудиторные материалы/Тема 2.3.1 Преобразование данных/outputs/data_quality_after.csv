@@ -1,0 +1,6 @@
+metric,value
+rows,9515
+unique_movie_id,9515
+missing_rating,7
+unknown_age,4177
+long_rows,9777

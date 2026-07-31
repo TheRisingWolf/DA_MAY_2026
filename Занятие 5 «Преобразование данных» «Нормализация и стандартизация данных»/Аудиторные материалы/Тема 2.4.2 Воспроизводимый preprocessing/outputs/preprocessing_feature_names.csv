@@ -1,0 +1,13 @@
+feature_name
+numeric__rating_score
+numeric__movie_age
+numeric__title_length
+numeric__platform_count
+categorical__age_rating_0+
+categorical__age_rating_13+
+categorical__age_rating_16+
+categorical__age_rating_18+
+categorical__age_rating_7+
+categorical__age_rating_unknown
+categorical__availability_group_multi_platform
+categorical__availability_group_single_platform

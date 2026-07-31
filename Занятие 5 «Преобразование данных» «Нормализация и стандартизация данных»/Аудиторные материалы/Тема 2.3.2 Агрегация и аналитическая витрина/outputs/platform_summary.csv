@@ -1,0 +1,5 @@
+platform,movie_count,mean_rating,median_rating,mean_movie_age,multi_platform_share
+Prime Video,4113,50.4,49.0,23.92,0.0515
+Netflix,3695,54.45,53.0,11.22,0.0392
+Hulu,1047,60.4,60.0,14.2,0.1299
+Disney+,922,58.31,57.5,28.97,0.0239

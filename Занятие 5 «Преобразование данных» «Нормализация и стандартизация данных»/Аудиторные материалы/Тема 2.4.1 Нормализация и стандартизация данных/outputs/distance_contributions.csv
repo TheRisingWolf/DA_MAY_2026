@@ -1,0 +1,11 @@
+method,feature,squared_difference,share_of_squared_distance
+original,rating_score,1296.0,0.10120256129939091
+original,movie_age,11449.0,0.8940340465406841
+original,title_length,36.0,0.002811182258316414
+original,platform_count,0.0,0.0
+original,age_min,25.0,0.001952209901608621
+standard,rating_score,7.4468255889574095,0.18542658668492984
+standard,movie_age,31.287193690245118,0.7790537677604802
+standard,title_length,0.321975864960708,0.008017226255858998
+standard,platform_count,0.0,0.0
+standard,age_min,1.1045110814665664,0.02750241929873097
